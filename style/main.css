@@ -22,6 +22,10 @@ body{
     cursor: pointer;
 }
 
+button a{
+    text-decoration: none;
+}
+
 header nav a{
     text-decoration: none;
     color: whitesmoke;
